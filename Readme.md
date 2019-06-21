@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/SilverlightApplication1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication1/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to bind a date navigator to a scheduler
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3516)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to assign a scheduler control to a date navigator and specify the date navigator behavior settings when creating a scheduling application.</p>
